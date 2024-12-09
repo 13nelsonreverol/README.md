@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Nelson Reverol</h1>
-<h3 align="center">Soy un Developer y Frontend apasionado</h3>
+<h3 align="center">Soy Developer y Frontend apasionado</h3>
 
 - 💬 Ask me about **HTML, CSS, PHP, MYSQL Y PYTHON**
 
